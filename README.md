@@ -50,3 +50,8 @@ A simulated reviewer can approve, comment, or flag items.
 
 FHIR Packaging
 A simplified HL7 FHIR transaction bundle is generated and available for download.
+
+🔒 Data Privacy Note
+
+All medical information in this project is intentionally fictional and created solely for educational demonstration.
+No real patient data is included, processed, or stored.
