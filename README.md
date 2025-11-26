@@ -24,7 +24,7 @@ You can access and interact with the full application online (no installation re
 
 👉 Live Streamlit App
 
-(Replace this with your actual Streamlit URL.)
+https://iphr-demo-zuv37tnu5gnvbhsrsxsmyd.streamlit.app/
 
 🧠 System Overview
 
